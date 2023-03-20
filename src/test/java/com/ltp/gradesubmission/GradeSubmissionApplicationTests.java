@@ -1,10 +1,10 @@
-package com.jay.hellospring;
+package com.ltp.gradesubmission;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloSpringApplicationTests {
+class GradeSubmissionApplicationTests {
 
 	@Test
 	void contextLoads() {
